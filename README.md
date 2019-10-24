@@ -29,10 +29,10 @@ https://github.com/JeffJetton/r_package_notes
     + Win (example): `C:/Program Files/R/R-3.4.0/library`
     
 <BR>
-![](./images/library_dir.png)
+![](https://github.com/JeffJetton/r-package-notes/blob/master/images/library_dir.png)
 
 <BR>
-![](./images/package_dir.png)
+![](https://github.com/JeffJetton/r-package-notes/blob/master/images/package_dir.png)
     
 <BR>
     
@@ -109,7 +109,7 @@ Packages can be (and were) created "by hand"--that is, without the help of any s
 Probably **not** the first thing you'll want to read though! 
     
 <BR>
-![](./images/r_packages_cover.png){#id .class width=200px height=263}
+![](https://github.com/JeffJetton/r-package-notes/blob/master/images/r_packages_cover.png){#id .class width=200px height=263}
    
 Best guide: *R Packages* by Hadley Wickham
 
