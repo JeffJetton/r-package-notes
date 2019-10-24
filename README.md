@@ -29,10 +29,12 @@ https://github.com/JeffJetton/r_package_notes
     + Win (example): `C:/Program Files/R/R-3.4.0/library`
     
 <BR>
-![Example R library directory](/images/library_dir.png)
+    
+![Example R library directory](images/library_dir.png)
 
 <BR>
-![Example package directory contents](/images/package_dir.png)
+    
+![Example package directory contents](images/package_dir.png)
     
 <BR>
     
@@ -109,6 +111,7 @@ Packages can be (and were) created "by hand"--that is, without the help of any s
 Probably **not** the first thing you'll want to read though! 
     
 <BR>
+    
 ![Cover of R Packages book](https://github.com/JeffJetton/r-package-notes/blob/master/images/r_packages_cover.png){#id .class width=200px height=263}
    
 Best guide: *R Packages* by Hadley Wickham
