@@ -112,7 +112,7 @@ Probably **not** the first thing you'll want to read though!
     
 <BR>
     
-![Cover of R Packages book](https://github.com/JeffJetton/r-package-notes/blob/master/images/r_packages_cover.png){#id .class width=200px height=263}
+![Cover of R Packages book](images/r_packages_cover.png)
    
 Best guide: *R Packages* by Hadley Wickham
 
