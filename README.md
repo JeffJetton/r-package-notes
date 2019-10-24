@@ -74,7 +74,7 @@ https://github.com/JeffJetton/r_package_notes
         + Lightweight
         + Compatible with `hclust()`, `plot()`, `cutree()`, etc.
         + Quick/easy to learn if you're already used to `hclust()`
-* Demo...
+* [Some demo code](greenclust-demo.R)
     
     
 <BR><BR><BR><BR><BR><BR><BR><BR>
