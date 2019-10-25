@@ -12,7 +12,7 @@ Vanderbilt University Medical Center Development
     
 jeff.jetton@vumc.org
     
-https://github.com/JeffJetton/r_package_notes
+https://github.com/JeffJetton/r-package-notes
     
     
 <BR><BR><BR><BR><BR><BR><BR><BR>
