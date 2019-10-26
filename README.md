@@ -138,7 +138,7 @@ Also: Take a look at github repos of your favorite R packages
 ### The Three Biggest Ways a Package is Different from a Regular Project
 
 1. Metadata
-    + DOCUMENTATION file:  Package name, author, license info, etc.
+    + DESCRIPTION file:  Package name, author, license info, etc.
     + NAMESPACE file:  Declares exposed functions and dependencies on other packages
 2. Documentation
     + Help files
