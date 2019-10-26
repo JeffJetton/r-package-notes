@@ -167,13 +167,13 @@ fit.full.gclust <- glm(purchased ~ year + sqft + bedrooms + bathrooms +
                          fireplaces + cluster,
                        data=ames, family="binomial")
 
-# Similar relative results for the three models
+# gclust is only model with all coefficients at p < 0.05
 summary(fit.full)
 summary(fit.full.fclust)
 summary(fit.full.gclust)
 
-# gclust AIC much lower than fclust and even slightly less than using no
-# clusters (despite having far fewer predictors!)
+# Models are in the same order by AIC as with the single-predictor
+# versions, but the fclust model is now closer to the other two
 fit.full$aic
 fit.full.fclust$aic
 fit.full.gclust$aic
@@ -193,7 +193,9 @@ plot.roc(roc.g, main="greenclust (6 levels)", col="green")
 text(0.5, 0, paste("AUC =" , round(roc.g$auc, 3)))
 par(savepar)
 
-# Not as big of a difference due to the lower influence of
-# the neighborhood predictor in the full model
+# Again, the greenclustered version yields comparable results to the
+# unclustered version, but with 22 fewer coefficients.
 
+# Not as big of a difference across models though, presumably due to the lower
+# influence of neighborhood compared to other predictors.
 
